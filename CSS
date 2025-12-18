@@ -1,0 +1,6 @@
+:root {
+    --primary: #00f3ff;    /* Color principal (azul eléctrico) */
+    --secondary: #8a2be2;  /* Color secundario (púrpura) */
+    --dark: #0a0a1a;       /* Fondo oscuro */
+    --accent: #ff00ff;     /* Color de acento (rosa neón) */
+}
